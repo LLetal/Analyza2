@@ -1,10 +1,10 @@
 # Analyza2
 
-V momentálním stavu nemáme ani zdaleka sepsaný seznam vět a důkazů, takže je to prozatím prostě rozcestník všech dostupných definic a vět spárovaných s kapitolami ze skript, tam kde se mi podařilo je odhalit.
+V momentálním stavu nemáme ani zdaleka sepsaný seznam vět a důkazů, takže je to prozatím prostě rozcestník všech dostupných definic a vět spárovaných s kapitolami ze skript, tam kde se mi podařilo je odhalit. Číslování je podle této verze [skript](https://www.karlin.mff.cuni.cz/~krump/analyza/2021_zs/skripta_MAF2.pdf).
 
 # Poděkování
 
-Tímto bych chtěl poděkovat Richardu Vasilegovi za poskytnutí zápisků, které mi posloužily k vypracování tohoto repozitáře. 
+Tímto bych chtěl poděkovat Richardu Vasilegovi za poskytnutí zápisků, které mi posloužily k vypracování tohoto repozitáře. Dále děkuji Jakubu Koňarikovi za plodné konzultace problémových vět a důkazů.
 
 # Soupis socialistických míchaných nápojů
 
@@ -19,6 +19,9 @@ Protože učení se analýzy je velmi náročné, přidávám sem soupis velmi z
 Okraj koktejlové sklenky navlhčíme citrónem a omočíme v pískovém cukru. Do šejkru dáme 2-3 kostky ledu, 1/3 červeného vermutu,1/3 Maraschina a 13 čokoládového likéru. Poté protřepáme a scedíme
 ### Napoleon
 Kostka ledu, 1/2 brandy, 1/2 citronového sirupu, dolijeme dle chuti bílým vínem a sodovkou.
+### Bílá paní
+1/4 ginu, 1/4 citronové šťávy,1/4 Cointreau + optional vaječný bílek.
+
 ### Moskevský kotejl
 Odměrka vodky, 3 střiky ginu, 2 střiky orange bitters (cokoliv s pomerančem tbh). Zamícháme do sklenky přidáme třešni a spirálu citronové kůry.
 ### Ruský koktejl
